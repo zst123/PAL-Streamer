@@ -1,0 +1,9 @@
+# STM32CubeIDE gitignore
+.mxproject
+.settings/
+*.cfg
+.DS_Store
+Thumbs.db
+Debug/
+Release/
+Drivers/
